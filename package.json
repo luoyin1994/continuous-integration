@@ -1,0 +1,14 @@
+{
+  "name": "continuous-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "mkdir build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "shelljs": "^0.7.8"
+  }
+}
